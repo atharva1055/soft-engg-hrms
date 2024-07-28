@@ -4,4 +4,5 @@ The aim of the project is to demonstrate the concepts of Software Project Manage
 Title : Human Resource Management System
 
 Tech Stack : Python, SQL
+
 Contents : SRS, UML, Activity, Sequence, Class, State Digarams and Wireframing
